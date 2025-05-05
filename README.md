@@ -1,7 +1,5 @@
 # COVID-19 Analysis Report
 
-![COVID-19 Analysis Banner](https://via.placeholder.com/800x200.png?text=COVID-19+Analysis+Report)
-
 Welcome to the **COVID-19 Analysis Report** repository! This project aims to provide an in-depth analysis of COVID-19 data using Jupyter Notebooks. The repository includes data visualizations, insights, and findings to help better understand the global pandemic's trends and effects.
 
 ---
