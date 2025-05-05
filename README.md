@@ -1,7 +1,3 @@
-Here's a draft for the `README.md` file for your repository. It is designed to be visually appealing and provide essential information about the project.
-
----
-
 # COVID-19 Analysis Report
 
 ![COVID-19 Analysis Banner](https://via.placeholder.com/800x200.png?text=COVID-19+Analysis+Report)
